@@ -2,7 +2,7 @@
 This challenge was in SECCON 2018 online CTF
 
 ## Dependencies
-- cross-gcc494
+- cross-gcc494  
 you must build and install for moxie-elf
 
 ## Execution and Analysis
