@@ -3,7 +3,7 @@ This challenge was in SECCONbeginners 2018 online CTF
 
 ## Write up details
 - see this.
- - [http://lcstmarck.hatenablog.com/entry/2018/05/27/211415](http://lcstmarck.hatenablog.com/entry/2018/05/27/211415)
+ - [http://lcstmarck.hatenablog.com/entry/2018/05/27/211415](http://lcstmarck.hatenablog.com/entry/2018/05/27/211415){:target="_blank"}
 
 ## Dependencies
 - Linux
