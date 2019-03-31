@@ -1,4 +1,4 @@
-# Special Instructions
+# BBS
 This challenge was in SECCONbeginners 2018 online CTF
 
 ## Write up details
