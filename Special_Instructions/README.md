@@ -9,7 +9,7 @@ This challenge was in SECCON 2018 online CTF
 
 ## Write up details
 - see this.
- - [http://lcstmarck.hatenablog.com/entry/2018/05/27/211415](http://lcstmarck.hatenablog.com/entry/2018/05/27/211415)
+ - [http://lcstmarck.hatenablog.com/entry/2018/10/30/001608](http://lcstmarck.hatenablog.com/entry/2018/10/30/001608)
 
 ## Dependencies
 - cross-gcc494  
